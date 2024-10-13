@@ -1,5 +1,5 @@
 # 📝 Gerenciador de Participantes de Eventos
-Esta aplicação web permite gerenciar a lista de participantes de um evento, permitindo cadastrar novos participantes, confirmar check-ins e remover participantes. A interface é dinâmica e responsiva, garantindo uma experiência de usuário fluida.
+Esta aplicação web foi desenvolvida durante a NLW-Unite da [Rocketseat](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&utm_term=rocketseat&utm_campaign=PROGRAMAS-ALL-BRANDKWS-SEM&utm_source=adwords&utm_medium=cpc&hsa_acc=8545075154&hsa_cam=16048648686&hsa_grp=135825188594&hsa_ad=579096962131&hsa_src=g&hsa_tgt=kwd-679159515078&hsa_kw=rocketseat&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjw3624BhBAEiwAkxgTOgXWCaiSUizZ6I1iLCToY1M3Xi-GPzuXIeTOHYl2YlKUvcnOmjmxZxoCrwoQAvD_BwE). Ela permite gerenciar a lista de participantes de um evento, permitindo cadastrar novos participantes, confirmar check-ins e remover participantes. A interface é dinâmica e não responsiva, garantindo uma experiência de usuário fluida.
 
 ## 🚀 Funcionalidades
 ### 1. Cadastrar Participantes: 
@@ -14,7 +14,7 @@ A lista de participantes é atualizada em tempo real na interface, sem a necessi
 ## 🛠️ Tecnologias Utilizadas
 - **HTML**: Para a estruturação da página.
 - **CSS**: Para estilização e responsividade do layout.
-- **JavaScript (ES6+)**: Para manipulação da DOM, requisições assíncronas e lógica de negócios.
+- **JavaScript (ES6+)**: Para manipulação da DOM.
 - **Day.js**: Biblioteca para manipulação de datas.
 - **Local Storage**: Para armazenar dados temporariamente no navegador.
 
